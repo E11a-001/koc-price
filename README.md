@@ -1,4 +1,4 @@
-# koi-price
+# koc-price
 
 This repository contains the `koc-pricing` Codex skill source files.
 
